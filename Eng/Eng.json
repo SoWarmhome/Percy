@@ -1,1 +1,1 @@
-{"data":{"routes":[{"Destination_ENG":"TSIM SHA TSUI EAST","Origin_ENG":"KWAI CHUNG (ON YAM ESTATE)","Origin_CHI":"葵涌(安蔭邨)","To_saturday":"2330","From_saturday":"0530","Desc_CHI":"","Desc_ENG":"","ServiceType":"01   ","Route":"35A","Destination_CHI":"尖沙咀東","Bound":"1","From_weekday":"0530","From_holiday":"0530","To_weekday":"2330","To_holiday":"2330"}],"CountSpecal":0},"result":true}
+{"data":{"routes":[{"Total":"4","1":"apple","2":"banana":"3","cat":"4","dog"}],"CountSpecal":0},"result":true}
