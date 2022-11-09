@@ -1,7 +1,10 @@
 {
 
   "Content":[{"Chapter 1":""},{"Chapter 2":""},{"Chapter 3":""},{"Chapter 4":""}],
-  "Chapter 1":[],
+  "Chapter 1":[{"housework":""},{"dust the shelves":""},{"read a lot":""},{"walk the dog":""},{"water the plants":""},{"set the table":""},{"feed the dog":""},
+               {"fold the clothes":""},{"clear the table":""},{"sweep the floor":""},{"mop the floor":""},{"vacuum the floor":""},{"hang up the washing":""},
+               {"make the bed":""},{"put away the toys":""},{"busy and tired":""},{"most helpful":""},{"hard work":""},{"a little tired":""},{"time to rest":""},
+               {"sleep all day":""},{"much time":""},{"interview":""},{"badge":""},{"the dwarfs":""}],
   "Chapter 2":[{"dry the dishes":""},{"wash the dishes":""},{"tidy the rood":""},{"clean my room":""},{"help at home":""},{"water the plants":""},
                {"fold the clothes":""},{"help with the housework":""},{"watch":""},{"shout":""},{"do the shopping":""},{"study":""},{"forest":""},{"competition":""},
                {"sofa":""},{"little man":""},{"child":""},{"children":""},{"polite":""},{"rude":""},{"honest":""},{"tired":""},{"surprised":""},{"lazy":""},
