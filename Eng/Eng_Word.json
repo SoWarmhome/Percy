@@ -1,7 +1,6 @@
 {
 
-  "Content":[{"Chapter 1":""},{"Chapter 2":""},{"Chapter 3":""},{"Chapter 4":""},{"Chapter 5 part 1":""},{"Chapter 5 part 2":""},{"Chapter 6 part 1":""},
-             {"Chapter 6 part 2":""}],
+  "Content":[{"Chapter 1":""},{"Chapter 2":""},{"Chapter 3":""},{"Chapter 4":""}],
   "Chapter 1":[{"housework":""},{"dust the shelves":""},{"read a lot":""},{"walk the dog":""},{"water the plants":""},{"set the table":""},{"feed the dog":""},
                {"fold the clothes":""},{"clear the table":""},{"sweep the floor":""},{"mop the floor":""},{"vacuum the floor":""},{"hang up the washing":""},
                {"make the bed":""},{"put away the toys":""},{"busy and tired":""},{"most helpful":""},{"hard work":""},{"a little tired":""},{"time to rest":""},
@@ -17,18 +16,7 @@
   "Chapter 4":[{"job":""},{"waiter":""},{"waitress":""},{"zoo keeper":""},{"policeman":""},{"policewoman":""},{"cook":""},{"doctor":""},{"nurse":""},{"housewife":""},
                {"bus driver":""},{"teacher":""},{"fireman":""},{"worker":""},{"postman":""},{"student":""},{"brother":""},{"sister":""},{"host":""},{"hospital":""},
                {"zoo":""},{"post office":""},{"fire station":""},{"police station":""},{"teach English":""},{"serve food to people":""},{"help sick people":""},
-               {"drive buses":""},{"put of fires":""},{"save people":""},{"look after the family":""},{"catch bad people":""},{"take letters to people":""},{"brave":""}],
-  "Chapter 5 part 1":[{"Sunday":""},{"Monday":""},{"Tuesday":""},{"Wednesday":""},{"Thursday":""},{"Friday":""},{"Saturaday":""},{"weekends":""},{"next week":""},
-                      {"in the morning":""},{"in the afternoon":""},{"activity":""},{"tennis lessons":""},{"piano lessons":""},{"go to church":""},
-                      {"go the Cub Scouts":""},{"Brownies":""}],
-  "Chapter 5 part 2":[{"visit grandma":""},{"computer lessons":""},{"kung fu lessons":""},{"painting course":""},{"write":""},{"writing":""},{"send":""},{"receive":""},
-                      {"free":""},{"forest":""},{"woodcutter":""},{"special":""},{"events":""},{"together":""},{"ballet lessons":""},{"basketball":""},{"dancing course":""},
-                      {"school choir":""},{"practice":""}],
-  "Chapter 6 part 1":[{"wash my face":""},{"brush my teeth":""},{"breakfast":""},{"lunch":""},{"dinner":""},{"homework":""},{"hiking":""},{"bath":""},{"shower":""},
-                      {"make dresses":""},{"leaves coins":""},{"collect":""},{"getup":""},{"chat with":""},{"twelve":""},{"fifteen":""},{"twenty":""},{"thirty":""},
-                      {"forty":""},{"fifty":""},{"two oh five":""},{"half past six":""}],
-  "Chapter 6 part 2":[,{"tooth":""},{"pillow":""},{"fruit":""},{"juice":""},{"fairy":""},{"invitation":""},{"human":""},{"hide and seek":""},{"next week":""},
-                      {"in the evening":""},{"holiday camp":""},{"drama lessons":""},{"nighttime":""}]
+               {"drive buses":""},{"put of fires":""},{"save people":""},{"look after the family":""},{"catch bad people":""},{"take letters to people":""},{"brave":""}]
   
   
   
