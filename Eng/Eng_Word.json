@@ -1,34 +1,20 @@
 {
 
-  "Content":[{"Chapter 1":""},{"Chapter 2":""},{"Chapter 3":""},{"Chapter 4":""},{"Chapter 5 part 1":""},{"Chapter 5 part 2":""},{"Chapter 6 part 1":""},
-             {"Chapter 6 part 2":""}],
-  "Chapter 1":[{"housework":""},{"dust the shelves":""},{"read a lot":""},{"walk the dog":""},{"water the plants":""},{"set the table":""},{"feed the dog":""},
-               {"fold the clothes":""},{"clear the table":""},{"sweep the floor":""},{"mop the floor":""},{"vacuum the floor":""},{"hang up the washing":""},
-               {"make the bed":""},{"put away the toys":""},{"busy and tired":""},{"most helpful":""},{"hard work":""},{"a little tired":""},{"time to rest":""},
-               {"sleep all day":""},{"much time":""},{"interview":""},{"badge":""},{"the dwarfs":""}],
-  "Chapter 2":[{"dry the dishes":""},{"wash the dishes":""},{"tidy the rood":""},{"clean my room":""},{"help at home":""},{"water the plants":""},
-               {"fold the clothes":""},{"help with the housework":""},{"watch":""},{"shout":""},{"do the shopping":""},{"study":""},{"forest":""},{"competition":""},
-               {"sofa":""},{"little man":""},{"child":""},{"children":""},{"polite":""},{"rude":""},{"honest":""},{"tired":""},{"surprised":""},{"lazy":""},
-               {"ill":""},{"tidy":""},{"untidy":""},{"helpful":""},{"unhelpful":""},{"dirty":""},{"hard-working":""},{"say sorry":""},{"feel much better":""},
-               {"look for":""},{"please":""},{"every day week night":""},{"win":""},{"magical":""}],
-  "Chapter 3":[{"beep":""},{"leave":""},{"get on":""},{"go home":""},{"minibus":""},{"on foot":""},{"train":""},{"school bus":""},{"light rail":""},{"bus":""},
-               {"ferry":""},{"boat":""},{"tram":""},{"car":""},{"taxi":""},{"driver":""},{"motorbike":""},{"tricycle taxi":""},{"houseboat":""},{"horn":""},
-               {"leader":""},{"behind":""},{"on the beach":""},{"winter":""},{"cold":""},{"Kowloon":""},{"Hong Kong Island":""},{"New Territories":""}],
-  "Chapter 4":[{"job":""},{"waiter":""},{"waitress":""},{"zoo keeper":""},{"policeman":""},{"policewoman":""},{"cook":""},{"doctor":""},{"nurse":""},{"housewife":""},
-               {"bus driver":""},{"teacher":""},{"fireman":""},{"worker":""},{"postman":""},{"student":""},{"brother":""},{"sister":""},{"host":""},{"hospital":""},
-               {"zoo":""},{"post office":""},{"fire station":""},{"police station":""},{"teach English":""},{"serve food to people":""},{"help sick people":""},
-               {"drive buses":""},{"put of fires":""},{"save people":""},{"look after the family":""},{"catch bad people":""},{"take letters to people":""},{"brave":""}],
-  "Chapter 5 part 1":[{"Sunday":""},{"Monday":""},{"Tuesday":""},{"Wednesday":""},{"Thursday":""},{"Friday":""},{"Saturaday":""},{"weekends":""},{"next week":""},
-                      {"in the morning":""},{"in the afternoon":""},{"activity":""},{"tennis lessons":""},{"piano lessons":""},{"go to church":""},
-                      {"go the Cub Scouts":""},{"Brownies":""}],
-  "Chapter 5 part 2":[{"visit grandma":""},{"computer lessons":""},{"kung fu lessons":""},{"painting course":""},{"write":""},{"writing":""},{"send":""},{"receive":""},
-                      {"free":""},{"forest":""},{"woodcutter":""},{"special":""},{"events":""},{"together":""},{"ballet lessons":""},{"basketball":""},{"dancing course":""},
-                      {"school choir":""},{"practice":""}],
-  "Chapter 6 part 1":[{"wash my face":""},{"brush my teeth":""},{"breakfast":""},{"lunch":""},{"dinner":""},{"homework":""},{"hiking":""},{"bath":""},{"shower":""},
-                      {"make dresses":""},{"leaves coins":""},{"collect":""},{"getup":""},{"chat with":""},{"twelve":""},{"fifteen":""},{"twenty":""},{"thirty":""},
-                      {"forty":""},{"fifty":""},{"two oh five":""},{"half past six":""}],
-  "Chapter 6 part 2":[{"tooth":""},{"pillow":""},{"fruit":""},{"juice":""},{"fairy":""},{"invitation":""},{"human":""},{"hide and seek":""},{"next week":""},
-                      {"in the evening":""},{"holiday camp":""},{"drama lessons":""},{"nighttime":""}]
+  "Content":[{"Line 1":""},{"Line 2":""},{"Line 3":""},{"Line 4":""},{"Line 5":""},{"Line 6":""},{"Line 7":""},{"Line 8":""},{"Line 9":""},{"Line 10":""},{"Line 11":""},{"Line 12":""},{"Line 13":""}],
+
+  "Line 1":[{"Hello, kids!":""}],
+  "Line 2":[{"What is your name?":""}],
+  "Line 3":[{"Hi! I am Allie.":""}],
+  "Line 4":[{"This is my mother.":""}],
+  "Line 5":[{"Good afternoon.":""}],
+  "Line 6":[{"Nice to meet you.":""}],
+  "Line 7":[{"They are our new neighbours.":""}],
+  "Line 8":[{"This is my father.":""}],
+  "Line 9":[{"She is my sister
+  "Line 10":[{"She is four years old.":""}],
+  "Line 11":[{"Hello, I am Mr Wong.":""}],
+  "Line 12":[{"You are nice to Abbie.":""}],
+  "Line 13":[{"We are sisters.":""}]
   
   
   
