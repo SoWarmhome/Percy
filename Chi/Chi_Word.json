@@ -1,11 +1,12 @@
 
 {
 
-  "範圍":[{"範圍一":""},{"範圍二":""},{"範圍三":""},{"範圍四":""}],
-  "範圍一":[{"膽小":""},{"勇敢":""},{"家務":""},{"多少":""},{"踼足球":""},{"打遊戲":""},{"強健":""},{"數學":""},{"瘦小":""},{"長高":""}],
-  "範圍二":[{"日本":""},{"慚愧":""},{"清脆悅耳":""},{"慈祥":""},{"請教":""},{"錯誤":""},{"教訓":""},{"八號":""},{"颱風":""},{"寧願":""}],
-  "範圍三":[{"欣賞":""},{"幾顆":""},{"跌倒":""},{"忙碌":""},{"古代":""},{"離島":""},{"聖誕":""},{"拆開":""},{"計算":""},{"探訪":""},{"勤學":""},{"緊張":""}],
-  "範圍四":[{"補償":""},{"道歉":""},{"掩耳":""},{"噪音":""},{"鮮艷":""},{"刨冰":""},{"炮彈":""},{"送給":""},{"喧嘩":""}],
+  "英文句子":[{"Chapter 4 Paragraph 1":""},{"Chapter 4 Paragraph 2":""},{"Chapter 4 Paragraph 3":""},{"Chapter 4 Paragraph 4":""}],
+  "Chapter 4 Paragraph 1":[{"What about soya milk? Question mark":""},{"asked Peter. Fullstop":""},{"it's healthier than cola. Fullstop":""},{"Look at this. Exclamation mark":""},{"We can also get cheaper bread. Fullstop":""}],
+  "Chapter 4 Paragraph 2":[{"Oh yes. Full stop":""},{"Let's get a carton of soya milk. Fullstop":""},{"said Wendy. Fullstop":""},{"She put it in the trolley along with a loaf of bread. Fullstop":""}],
+  "Chapter 4 Paragraph 3":[{"Can we get some chocolate? Question mark":""},{"said Peter. Fullstop.":""},{"Our friends love it. Fullstop":""},{"How much is a bar of chocolate? Question mark":""}],
+  "Chapter 4 Paragraph 4":[{"Wendy looked. Fullstop":""},{"The cheapest is four dollars eighty cents. Fullstop":""},{"she said. Comma":""},{"and the most expensive is twenty six dollars seventy cents. Full stope":""}],
+
 
 
          }
